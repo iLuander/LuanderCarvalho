@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+  font-size: 18px;
+}
+
+.serif {
+  font-family: "Times New Roman", serif;
+}
+
+.sans {
+  font-family: Arial, sans-serif;
+}
+
+.monospace {
+  font-family: "Courier New", monospace;
+}
