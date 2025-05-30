@@ -1,2 +1,2 @@
-./Atualizar\ Rep\ GitHub "Sua mensagem de commit aqui"
+./atualizar\ luandercarvalho"Sua mensagem de commit aqui"
 
