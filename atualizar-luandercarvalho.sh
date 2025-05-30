@@ -3,8 +3,8 @@
 # Mensagem do commit, passada como argumento, ou padrão se não passar nada
 MENSAGEM=${1:-"Atualização automática"}
 
-# Navega para a pasta do repositório
-cd ~/Documentos/Cursos/HTML5\ e\ CSS3 || exit
+# Navega para a pasta do repositório LuanderCarvalho
+cd ~/Documentos/Cursos/LuanderCarvalho || exit
 
 # Mostra status antes de começar
 echo "Status atual do repositório:"
@@ -19,4 +19,3 @@ git commit -m "$MENSAGEM"
 # Envia para o GitHub
 git push
 
-echo "✅ Atualização concluída com a mensagem: '$Repositorio Atualizado com Sucesso !'"
